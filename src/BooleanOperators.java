@@ -25,11 +25,7 @@ public class BooleanOperators {
 		System.out.println();
 		
 		
-		
-		
-		
-		System.out.println();
-		
+
 		
 		
 		
