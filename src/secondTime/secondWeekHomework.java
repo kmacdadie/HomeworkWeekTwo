@@ -26,9 +26,6 @@ public class secondWeekHomework {
 		boolean shouldByIcecream = isHotOutside && hasMoneyInPocket;
 		boolean willGoSwimming = isHotOutside && !isWeekday;
 		boolean isAGoodDay = isHotOutside && hasMoneyInPocket && !isWeekday;
-		boolean willBuyMilk = isHotOutside && thirstLevel >= 3 && moneyInWallet >= 2*costOfMilk;
-
-		
+		boolean willBuyMilk = isHotOutside && thirstLevel >= 3 && moneyInWallet >= 2*costOfMilk;	
 	}
-
 }

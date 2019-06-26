@@ -1,9 +1,6 @@
 package secondTime;
-
 public class loops2 {
-
 	public static void main(String[] args) {
-	
 	//A while loop that prints all even numbers from 0 to 100		
 		int k = 0;
 		while (k <= 100) {
@@ -39,4 +36,3 @@ public class loops2 {
 		}
 	}
 }
-
